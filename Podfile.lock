@@ -1,0 +1,17 @@
+PODS:
+  - HotlineSDK (1.0.7)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - HotlineSDK
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  HotlineSDK: cf2d2257c99a99a9defbf040e2c736f042edd7d1
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+PODFILE CHECKSUM: 3e4683945a575ca8fe55f3179c6414d0d71bece2
+
+COCOAPODS: 1.0.1
